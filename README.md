@@ -81,19 +81,32 @@ The output is grounded in retrieved resume content to reduce hallucinations and 
 
 ## ▶️ How to Run Locally
 
-### 1. Create virtual environment
-```bash
+### **1. Create a virtual environment**
+**```bash
 python -m venv venv
-venv\Scripts\activate
+```**
 
-### **2.** **Activate the virtual environment**
+---
+
+### **2. Activate the virtual environment**
+**```bash
 venv\Scripts\activate
+```**
+
+---
 
 ### **3. Install required packages**
+**```bash
 pip install -r requirements.txt
+```**
+
+---
 
 ### **4. Run the application**
+**```bash
 streamlit run app.py
+```**
+
 
 
 ## 📷 Screenshots
