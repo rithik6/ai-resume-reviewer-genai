@@ -86,13 +86,13 @@ The output is grounded in retrieved resume content to reduce hallucinations and 
 python -m venv venv
 venv\Scripts\activate
 
-**2. Activate the virtual environment**
+### **2.** **Activate the virtual environment**
 venv\Scripts\activate
 
-**3. Install required packages**
+### **3. Install required packages**
 pip install -r requirements.txt
 
-**4. Run the application**
+### **4. Run the application**
 streamlit run app.py
 
 
