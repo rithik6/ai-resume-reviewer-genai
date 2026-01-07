@@ -1,3 +1,7 @@
+If images still don’t show, use this **test line at the TOP of README**:
+
+```markdown
+![TEST IMAGE](./assets/ui_home.png)
 # AI Resume Reviewer & Skill Gap Analyzer (GenAI)
 GenAI Resume Reviewer &amp; Skill Gap Analyzer using RAG
 ## 📌 Overview
