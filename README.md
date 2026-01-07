@@ -120,8 +120,8 @@ streamlit run app.py
 ## 🎥 Demo Video
 [Click here to watch the demo](demo.mp4)
 
-**Drive Link**
-https://drive.google.com/file/d/1Ynhagg76HabOJKgrmG5vPA0vRz4TqIKy/view?usp=drive_link
+**Video Drive Link**
+https://drive.google.com/file/d/1Ynhagg76HabOJKgrmG5vPA0vRz4TqIKy/view?usp=sharing
 
 🚀 Future Improvements
 
