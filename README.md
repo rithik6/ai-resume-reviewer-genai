@@ -122,15 +122,25 @@ streamlit run app.py
 
 
 🚀 Future Improvements
+
 -Use API-based or GPU-hosted LLMs for faster inference
+
 -Downloadable resume review report (PDF)
+
 -Resume scoring & ATS optimization
+
 -Multi-resume comparison
+
 -Separation of UI and inference layers for scalability
 
 🧠 Key Learnings
+
 -Practical implementation of RAG pipelines
+
 -Prompt engineering for structured output
+
 -Handling LLM latency on CPU
+
 -Designing user-friendly GenAI applications
+
 -Avoiding hallucination using retrieved context
