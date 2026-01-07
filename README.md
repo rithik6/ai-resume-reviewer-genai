@@ -1,7 +1,3 @@
-If images still don’t show, use this **test line at the TOP of README**:
-
-```markdown
-![TEST IMAGE](./assets/ui_home.png)
 # AI Resume Reviewer & Skill Gap Analyzer (GenAI)
 GenAI Resume Reviewer &amp; Skill Gap Analyzer using RAG
 ## 📌 Overview
@@ -85,31 +81,22 @@ The output is grounded in retrieved resume content to reduce hallucinations and 
 
 ## ▶️ How to Run Locally
 
-### **1. Create a virtual environment**
-**```bash
+### 1. Create a virtual environment
 python -m venv venv
-```**
 
----
 
 ### **2. Activate the virtual environment**
-**```bash
 venv\Scripts\activate
-```**
 
 ---
 
 ### **3. Install required packages**
-**```bash
 pip install -r requirements.txt
-```**
 
 ---
 
 ### **4. Run the application**
-**```bash
 streamlit run app.py
-```**
 
 
 
