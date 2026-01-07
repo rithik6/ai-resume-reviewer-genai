@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# HuggingFace cache / models
+.cache/
+huggingface/
+
+# PDFs
+*.pdf
