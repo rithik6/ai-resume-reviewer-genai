@@ -98,7 +98,7 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-###Local Host
+### Local Host
 ![Local Host](./assets/local_host.png)
 
 ### Home Page
